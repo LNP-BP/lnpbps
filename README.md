@@ -36,7 +36,7 @@ No  | Layer                       | Vertical                   | Title | Authors
  [4]| Client-validated data (3)   | Cryptographic primitives   | Multi-message commitment scheme with zero-knowledge provable unique properties | Maxim Orlovsky | Standard | Proposal
  [5]| Transaction graph (2)       | Bitcoin protocol           | Universal short Bitcoin identifiers for blocks, transactions and their inputs & outputs | Christian Decker et al | Standard | Proposal
   6 | Transaction (1)             | Bitcoin protocol           | Deterministic bitcoin commitments | Maxim Orlovsky | Standard | Draft
-  7 | Client-validated data (3)   | Consensus layer            | Strict encoding | Peter Todd, Maxim Orlovsky | Standard | Planned
+ [7]| Client-validated data (3)   | Consensus layer            | Strict encoding formal semantics and notation syntax (SE/1) | Maxim Orlovsky, Peter Todd | Standard | Planned
  [8]| Client-validated data (3)   | Cryptographic primitives   | Single-use-seals | Peter Todd, Maxim Orlovsky | Informational | Draft
  [9]| Client-validated data (3)   | Consensus layer            | Client-side validation | Peter Todd, Maxim Orlovsky | Informational | Draft
  10 | Transaction graph (2)       | Bitcoin protocol           | Bitcoin transaction output-based single-use-seals with pay-to-contract commitments | Peter Todd et al | Standard | Proposal
@@ -149,6 +149,7 @@ Game theory                | Game-theoretical setups for trustless protocols    
 [3]: lnpbp-0003.md
 [4]: lnpbp-0004.md
 [5]: lnpbp-0005.md
+[7]: lnpbp-0007.md
 [8]: https://petertodd.org/2016/commitments-and-single-use-seals
 [9]: https://diyhpl.us/wiki/transcripts/scalingbitcoin/milan/client-side-validation/
 [11]: lnpbp-0011.md
